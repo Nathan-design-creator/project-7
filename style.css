@@ -1,0 +1,7 @@
+/* UNIVERSAL SELECTOR */
+* {
+    font-family: 'Courier New', Courier, monospace;
+
+    color: crimson;
+    font-size: 20px;
+}
